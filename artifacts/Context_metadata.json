@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Rabbit coin.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Rabbit coin.sol": {
+			"keccak256": "0xc2d2e21f4cb7313e3058f37e3ec6ae3e33c6f36053400d91b56909cfc144b3de",
+			"urls": [
+				"bzz-raw://2057abf23d71f79b845885216561a04adc455e5b54e8a47095993174ca68561f",
+				"dweb:/ipfs/Qma8te5pjCcvdMCrpsyu6duGNAiEqH8x7hqtoCKzrGy8Hz"
+			]
+		}
+	},
+	"version": 1
+}

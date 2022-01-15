@@ -1,0 +1,36 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Rabbiz.sol": "SafeMath"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Rabbiz.sol": {
+			"keccak256": "0xa396a8937b8034999410bab99bcc3364a8a5b7ecb52c2025957946a40f948b75",
+			"urls": [
+				"bzzr://e5e69b7794433dd8e4ef1daacc035831582cd4d00bc2484f298bb4ff24e5a2f9"
+			]
+		}
+	},
+	"version": 1
+}
